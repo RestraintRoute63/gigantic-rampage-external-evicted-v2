@@ -16,7 +16,7 @@ The **🛡️ Gigantic: Rampage Edition External Evicted V2** is the most truste
 </div>
 
 <div align="center">
-<img alt="Gigantic: Rampage Edition External Evicted V2 Interface" src="https://raw.githubusercontent.com/laplaplaplas/download/main/assets/evicted_menu_moba.png" />
+<img alt="Gigantic: Rampage Edition External Evicted V2 Interface" src="https://raw.githubusercontent.com/RainEmissary/dota2-external-evicted-v2/main/assets/evicted_menu_moba.png" />
 </div>
 
 With EAC operating at kernel level and constantly evolving, internal cheats are detected within days or even hours. The **🛡️ Gigantic: Rampage Edition External Evicted V2** solves this by working entirely outside the game process — no memory injection, no DLL files, no detectable signatures.
